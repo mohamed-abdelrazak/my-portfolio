@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row {
+  @apply flex flex-wrap;
+}
+
+::-moz-selection {
+  color: white;
+  background: #e2d2c4;
+}
+
+::selection {
+  color: white;
+  background: #e2d2c4;
+}
+
+.header-font {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.header-bg {
+  background-color: #f3ece6;
+}
+
+.btn-1 {
+  transition: all 0.2s ease-out;
+}
+
+.btn-1:hover {
+  transform: scale(105%);
+}
+
+.my-font {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.card a {
+  transition: all ease-in-out 0.2s;
+}
+
+.card {
+  transition: all ease-in-out 0.25s;
+}
+
+.card:hover {
+  transform: scale(104%);
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+.contact-bg {
+  background-color: #cab7a9;
+}
+
+.contact-icon {
+  transition: all ease-in-out 0.25s;
+}
+
+.contact-icon > i {
+  transition: all ease-in-out 0.25s;
+}
+
+.contact-icon:hover {
+  background-color: white;
+}
+
+.contact-icon:hover > i{
+  color: #cab7a9;
+}
