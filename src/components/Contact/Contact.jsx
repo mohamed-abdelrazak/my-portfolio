@@ -19,27 +19,27 @@ export default function Contact() {
             feel free to reach out! I'd love to hear from you.
           </h3>
           <div className="my-10 flex justify-center items-center gap-4">
-            <a href="https://github.com/Mo-Zoka">
+            <a href="https://github.com/mohamed-abdelrazak" target="_blank">
               <div className="contact-icon size-12 rounded-full border-white border flex justify-center items-center">
                 <i className="fab fa-github text-xl text-white"></i>
               </div>
             </a>
-            <a href="https://www.linkedin.com/in/mohamed-abdelrazak-491923267/">
+            <a href="https://www.linkedin.com/in/mohamed-abdelrazak-491923267/" target="_blank">
               <div className="contact-icon size-12 rounded-full border-white border flex justify-center items-center">
                 <i className="fab fa-linkedin-in text-xl text-white"></i>
               </div>
             </a>
-            <a href="https://www.instagram.com/zoka_artt/">
+            <a href="https://www.instagram.com/zoka_artt/" target="_blank">
               <div className="contact-icon size-12 rounded-full border-white border flex justify-center items-center">
                 <i className="fab fa-instagram text-xl text-white"></i>
               </div>
             </a>
-            <a href="https://www.behance.net/gallery/177632133/Abo-Alrood-Animation">
+            <a href="https://www.behance.net/gallery/177632133/Abo-Alrood-Animation" target="_blank">
               <div className="contact-icon size-12 rounded-full border-white border flex justify-center items-center">
                 <i className="fab fa-behance text-xl text-white"></i>
               </div>
             </a>
-            <a href="mailto:mohamedabdelrazak720@gmail.com">
+            <a href="mailto:mohamedabdelrazak720@gmail.com" target="_blank">
               <div className="contact-icon size-12 rounded-full border-white border flex justify-center items-center">
                 <i className="fa-solid fa-envelope text-xl text-white"></i>
               </div>

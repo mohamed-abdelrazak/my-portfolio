@@ -10,7 +10,7 @@ export default function About() {
             <h2 className="text-3xl md:text-5xl">About</h2>
           </div>
           <p className="my-7 font-semibold w-[70%] text-center">
-            " Hey, I'm Mohamed, a passionate front-end developer with 1 year of
+            " Hey, I'm Mohamed, a passionate front-end developer with 1+ year of
             experience specializing in building dynamic and responsive web
             applications using React.js. I enjoy turning complex problems into
             simple, beautiful, and intuitive interfaces. My expertise includes
