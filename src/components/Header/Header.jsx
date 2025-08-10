@@ -40,8 +40,8 @@ export default function Header() {
           />
         </div>
         <div className="absolute top-[3%] right-[3%] md:top-[10%] md:right-[10%] py-3 border-t-2 border-b-2 border-black font-semibold text-right">
-          <h3>CS Student,</h3>
-          <h3>4th year</h3>
+          <h3>CS Graduate,</h3>
+          <h3>2025</h3>
         </div>
         <div className="absolute bottom-[3%] left-[3%] md:bottom-[10%] md:left-[10%] font-semibold w-[250px]">
           <h3 className="relative">
